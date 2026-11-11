@@ -1,0 +1,31 @@
+
+body{
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+.card{
+    width: 470px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    background-color: #000000;
+    border-bottom: 10px solid #14213d;
+    
+}
+.picture{
+    margin-top: 19px;
+}
+.avatar{
+    width: 150px;
+    height: 200px;
+    border: 5px solid #14213d ;
+    
+}
+.bio{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #e5e5e5;
+}
+
+
